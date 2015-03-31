@@ -1,0 +1,9 @@
+
+[deploy]
+checkout = git clone 'git@github.com:nlblab/deploy' 'deploy'
+
+[nlblab.github.io]
+checkout = git clone 'git@github.com:nlblab/nlblab.github.io' 'nlblab.github.io'
+
+[sync-intro-1]
+checkout = git clone 'git@github.com:nlblab/sync-intro-1' 'sync-intro-1'
